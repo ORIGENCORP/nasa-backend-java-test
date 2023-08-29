@@ -19,7 +19,7 @@ public class PruebaRestController {
 	
 	@GetMapping("/all")
 	public List<PruebaEntity> listAll() {
-		return pruebaEntityRepository.findAll();
+		return pruebaEntityRepository.orderByDesc();
 	}
 
 }
