@@ -204,7 +204,7 @@ Crear una API del tipo GET con la cual podamos extraer los datos guardado en la 
 También esperamos que su código sea un reflejo de usted mismo en el trabajo, por lo que estaremos atentos a las elecciones que hará con respecto a la legibilidad y rendimiento del código.
 
 ## Submission
-Una vez que complete la prueba, envíe todo el proyecto a **su propio repositorio y hágalo público** y envíenos su enlace de repositorio a sramos@origencorp.net o hello@origencorp.net antes de la hora y la fecha límite para que podamos clonar su proyecto. Más tarde programaremos el día y la hora para realizar la entrevista técnica.
+Una vez que complete la prueba, envíe todo el proyecto a **su propio repositorio y hágalo público** y envíenos su enlace de repositorio a hello@origencorp.net antes de la hora y la fecha límite para que podamos clonar su proyecto. Más tarde programaremos el día y la hora para realizar la entrevista técnica.
 
 
 ## ¡Ahora estás listo, Happy Coding! 👊😎
